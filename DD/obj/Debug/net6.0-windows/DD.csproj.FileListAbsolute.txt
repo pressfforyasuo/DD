@@ -1,0 +1,17 @@
+C:\Users\aroao\source\repos\DD\DD\bin\Debug\net6.0-windows\DD.exe
+C:\Users\aroao\source\repos\DD\DD\bin\Debug\net6.0-windows\DD.deps.json
+C:\Users\aroao\source\repos\DD\DD\bin\Debug\net6.0-windows\DD.runtimeconfig.json
+C:\Users\aroao\source\repos\DD\DD\bin\Debug\net6.0-windows\DD.dll
+C:\Users\aroao\source\repos\DD\DD\bin\Debug\net6.0-windows\DD.pdb
+C:\Users\aroao\source\repos\DD\DD\obj\Debug\net6.0-windows\DD.csproj.AssemblyReference.cache
+C:\Users\aroao\source\repos\DD\DD\obj\Debug\net6.0-windows\DD.Form1.resources
+C:\Users\aroao\source\repos\DD\DD\obj\Debug\net6.0-windows\DD.csproj.GenerateResource.cache
+C:\Users\aroao\source\repos\DD\DD\obj\Debug\net6.0-windows\DD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aroao\source\repos\DD\DD\obj\Debug\net6.0-windows\DD.AssemblyInfoInputs.cache
+C:\Users\aroao\source\repos\DD\DD\obj\Debug\net6.0-windows\DD.AssemblyInfo.cs
+C:\Users\aroao\source\repos\DD\DD\obj\Debug\net6.0-windows\DD.csproj.CoreCompileInputs.cache
+C:\Users\aroao\source\repos\DD\DD\obj\Debug\net6.0-windows\DD.dll
+C:\Users\aroao\source\repos\DD\DD\obj\Debug\net6.0-windows\refint\DD.dll
+C:\Users\aroao\source\repos\DD\DD\obj\Debug\net6.0-windows\DD.pdb
+C:\Users\aroao\source\repos\DD\DD\obj\Debug\net6.0-windows\DD.genruntimeconfig.cache
+C:\Users\aroao\source\repos\DD\DD\obj\Debug\net6.0-windows\ref\DD.dll
