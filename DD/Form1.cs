@@ -84,7 +84,9 @@ namespace DD
                         break;
                 }
             }
+
             int sum = 0;
+
             for (int row = 0; row < int.Parse(RowColumn.Text); row++)
             {
                 for (int column = 0; column < int.Parse(RowColumn.Text); column++)
